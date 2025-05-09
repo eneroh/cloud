@@ -1,0 +1,155 @@
+1  clear
+    2  ls
+    3  cd /var/www/html
+    4  ls
+    5  vim index.html
+    6  sudo vim index.html
+    7  clear
+    8  sudo vim index.html
+    9  clear
+   10  sudo vim index.html
+   11  clear
+   12  sudo apt install certbot
+   13  ls
+   14  cd
+   15  clear
+   16  ls
+   17  clear
+   18  ls
+   19  clear
+   20  cd /var/www/html
+   21  ls
+   22  clear
+   23  cd
+   24  clear
+   25  certbot
+   26  sudo apt install certbot-nginx
+   27  clear
+   28  sudo apt install python3-certbot-nginx
+   29  sudo vim /etc/nginx/sites-available/aws.snopoint.com
+   30  clear
+   31  sudo nginx -t
+   32  sudo systemctl reload nginx
+   33  sudo ufw statius
+   34  sudo ufw status
+   35  sudo ufw start
+   36  sudo ufw enable
+   37  ls
+   38  clear
+   39  sudo ufw allow ssh
+   40  sudo ufw allow 'Nginx Full'
+   41  sudo ufw status
+   42  sudo certbot --nginx -d aws.snopoint.com
+   43  clear
+   44  sudo vim /var/www/html/index.html
+   45  clear
+   46  nmap aws.snopoint.com
+   47  sudo vim /var/www/html/index.html
+   48  clear
+   49  sudo vim /var/www/html/index.html
+   50  clear
+   51  sudo vim /var/www/html/index.html
+   52  clear
+   53  exit
+   54  clear
+   55  ping snopoint.com
+   56  clewar
+   57  clear
+   58  sudo apt update && sudo apt upgrade
+   59  clear
+   60  sudo apt update && sudo apt upgrade
+   61  apt list --upgradeable
+   62  clear
+   63  sudo apt install nginx
+   64  sudo systemctl status nginx
+   65  clear
+   66  ufw
+   67  clear
+   68  sudo ufw status
+   69  clear
+   70  sudo systemctl status nginx
+   71  cd .config/nginx
+   72  whereis nginx
+   73  cd usr/share/nginx
+   74  ls
+   75  cd /usr
+   76  cd /share
+   77  cd share
+   78  cd nginx
+   79  ls
+   80  clear
+   81  ls
+   82  cd html
+   83  ls
+   84  clear
+   85  cat index.html 
+   86  ip a
+   87  curl 0.0.0.0
+   88  curl 172.31.38.169
+   89  clear
+   90  ls
+   91  vim index.html
+   92  mkdir test
+   93  sudo mkdir test
+   94  sudo mv index.html
+   95  sudo mv index.html test
+   96  ls
+   97  vim index.html
+   98  sudo vim index.html
+   99  clear
+  100  sudo systemctl restart nginx
+  101  ls
+  102  cd ..
+  103  ls
+  104  cd html
+  105  ls
+  106  cd test
+  107  ls
+  108  vim index.html
+  109  cd ..
+  110  ls
+  111  vim index.html
+  112  sudo vim index.html
+  113  sudo systemctl start nginx
+  114  ls
+  115  cd ..
+  116  ls
+  117  whereis nginx
+  118  cd /etc/nginx
+  119  ls
+  120  cd sites-available
+  121  ls
+  122  vim default
+  123  cd /var/www/
+  124  ls
+  125  cd html
+  126  l
+  127  vim index.nginx-debian.html 
+  128  mkdir test
+  129  sudo mkdir test
+  130  ls
+  131  mv index.nginx-debian.html test
+  132  sudo mv index.nginx-debian.html test
+  133  clear
+  134  ls
+  135  vim index.html
+  136  ls
+  137  sudo ls
+  138  sudo vim index.html
+  139  clear
+  140  ls
+  141  clear
+  142  ls -alh
+  143  cat .sudo_as_admin_successful 
+  144  clear
+  145  ls
+  146  clear
+  147  cd /var/www/html
+  148  ls
+  149  vim index.html
+  150  clear
+  151  cd
+  152  clar
+  153  clear
+  154  history
+
